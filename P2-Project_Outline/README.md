@@ -24,6 +24,7 @@ Spring Data
 Thymeleaf
 JPA and Hibernate (for creating Object Relational Mapping)
 
+
 ### What I'll Have to Learn
 I want to learn include third party API integration. For each and every food truck I don't know how to link their location to their account.
 I have to learn more deep in that.
